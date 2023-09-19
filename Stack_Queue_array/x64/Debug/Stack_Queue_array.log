@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Универ\Алгоритмизация и программирование\Stack_Queue_array\Stack_Queue_array\main.cpp(17,46): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Stack_Queue_array.vcxproj -> D:\Универ\Алгоритмизация и программирование\Stack_Queue_array\x64\Debug\Stack_Queue_array.exe
